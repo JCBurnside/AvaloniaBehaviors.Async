@@ -1,3 +1,5 @@
-for file in $(ls ./src/**/*.csproj) do
-	dotnet pack $file -o ./Artifacts
+#!/bin/bash
+for file in src/**/*.csproj
+do
+	dotnet pack "$file" -o ./Artifacts
 done
