@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avalonia.Behaviors.Interactivity.Async", "src\Avalonia.Behaviors.Interactivity.Async\Avalonia.Behaviors.Interactivity.Async.csproj", "{FB6204DF-2D1B-415C-A852-454F5A438A40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "James.Avalonia.Behaviors.Interactivity.Async", "src\James.Avalonia.Behaviors.Interactivity.Async\James.Avalonia.Behaviors.Interactivity.Async.csproj", "{FB6204DF-2D1B-415C-A852-454F5A438A40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
